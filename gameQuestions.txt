@@ -1,0 +1,34 @@
+0;Players of this game are generally...
+1;The perspective of this game is...
+2;This game is...
+3;For which platform is this game available?
+4;This game is usually played...
+5;This game can be classified as belonging to the following genre:
+6;This game's graphic style is...
+7;Does this game require a paid subscription?
+8;Does this game allow the player to freely explore the game's map?
+9;Does this game allow players to collaborate/co-op with other players?
+10;Does this game allow players to compete (PvP) with other players?
+11;Does this game allow players to create their own characters?
+12;Does this game allow players to create a narrative surrounding the game's characters?
+13;Does this game allow players to try lifestyles different than their own?
+14;Does this game ask players to respond quickly to sudden situations?
+15;Does this game ask players to explore unfamiliar places/locations?
+16;Does this game revolve around collecting in-game objects?
+17;Can this game be played with friends?
+18;Can this game be played with random people over the internet?
+19;Does this game feature a highscore mechanic?
+20;Does this game invite the player to solo fight terrible foes?
+21;Does this game feature photorealistic graphics?
+22;Does this game feature a high difficulty level?
+23;Does this game invite their players to solve puzzles or to devise strategies?
+24;Does this game allow players to show their skills off?
+25;Does this game invite players to partake in simulated social situations?
+26;Does this game require a high level of attention?
+27;Does this game feature a completion mechanic (does this game invite the player to achieve 100% completion)?
+28;Does this game invite the player to follow a story?
+29;Does this game invite the player to follow a story and alter its course by interacting with it?
+30;Does this game invite the player to create their own story?
+31;Does this game trigger strong emotions, such as fear or horror, in players during gameplay?
+32;Does this game ask the players to persevere until they get a much desired object they had been seeking for a long time?
+33;Does this game rely on music as the key aspect of its gameplay?
